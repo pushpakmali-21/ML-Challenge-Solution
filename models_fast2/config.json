@@ -1,0 +1,17 @@
+{
+  "threshold": 0.8500000000000001,
+  "top_k": 10,
+  "max_ppk": 10,
+  "feature_cols": [
+    "name_bj",
+    "name_tj",
+    "name_tsr",
+    "name_pfx",
+    "name_ld",
+    "addr_bj",
+    "addr_tj",
+    "country_match",
+    "block_score"
+  ],
+  "val_f05": 0.4546215469894847
+}
